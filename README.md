@@ -1,0 +1,2 @@
+# Grezzo_1DayInternship
+グレッゾさんの1Dayインターンに参加したときの作品です。
